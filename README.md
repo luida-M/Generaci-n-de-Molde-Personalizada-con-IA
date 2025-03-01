@@ -24,3 +24,25 @@ Se propone el uso de inteligencia artificial generativa para diseñar moldes de 
 3. Generación de imágenes de moldes utilizando los prompts mejorados.
 
 4. Evaluación de los resultados, comparando la precisión y usabilidad de los patrones generados frente a moldes tradicionales.
+
+## Justificación: Este enfoque permite automatizar el proceso de diseño de moldes, facilitando la creación de prendas personalizadas de manera accesible y eficiente.
+
+## 3. Herramientas y Tecnologías
+
+## Técnicas de Fast Prompting
+
+. Para mejorar la calidad de las imágenes generadas, se utilizarán estrategias como:
+
+. Descripciones detalladas: Definir el tipo de prenda, dimensiones, perspectiva y estilo del molde.
+
+. Uso de términos específicos: Palabras clave como "vectorial", "técnico", "blueprint", "sewing pattern", "flat lay".
+
+. Iteración: Refinar los prompts para mejorar la precisión de los resultados.
+
+### Herramientas Utilizadas
+
+. Nightcafe o Leonardo.Ai: Para la generación de imágenes.
+
+. GPT-4: Para mejorar la optimización de prompts.
+
+## Justificación: Estas herramientas permiten obtener imágenes precisas y ajustadas a las necesidades del diseño de moldes de ropa.
