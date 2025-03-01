@@ -17,10 +17,10 @@ Se propone el uso de inteligencia artificial generativa para diseñar moldes de 
 
 ## Procedimientos
 
-## Investigación de herramientas gratuitas para generación de imágenes, priorizando aquellas que permitan obtener resultados detallados y en formato útil para el patronaje (ej. Nightcafe, Leonardo.Ai, Deep Dream Generator).
+1. Investigación de herramientas gratuitas para generación de imágenes, priorizando aquellas que permitan obtener resultados detallados y en formato útil para el patronaje (ej. Nightcafe, Leonardo.Ai, Deep Dream Generator).
 
-## Desarrollo de prompts optimizados, experimentando con descripciones detalladas, términos técnicos y estilos de representación.
+2. Desarrollo de prompts optimizados, experimentando con descripciones detalladas, términos técnicos y estilos de representación.
 
-## Generación de imágenes de moldes utilizando los prompts mejorados.
+3. Generación de imágenes de moldes utilizando los prompts mejorados.
 
-## Evaluación de los resultados, comparando la precisión y usabilidad de los patrones generados frente a moldes tradicionales.
+4. Evaluación de los resultados, comparando la precisión y usabilidad de los patrones generados frente a moldes tradicionales.
