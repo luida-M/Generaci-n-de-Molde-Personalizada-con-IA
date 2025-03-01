@@ -45,4 +45,4 @@ Se propone el uso de inteligencia artificial generativa para diseñar moldes de 
 
 . GPT-4: Para mejorar la optimización de prompts.
 
-## Justificación: Estas herramientas permiten obtener imágenes precisas y ajustadas a las necesidades del diseño de moldes de ropa.
+## Justificación:## Estas herramientas permiten obtener imágenes precisas y ajustadas a las necesidades del diseño de moldes de ropa.
