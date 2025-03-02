@@ -25,7 +25,8 @@ Se propone el uso de inteligencia artificial generativa para diseñar moldes de 
 
 4. Evaluación de los resultados, comparando la precisión y usabilidad de los patrones generados frente a moldes tradicionales.
 
-### Justificación: Este enfoque permite automatizar el proceso de diseño de moldes, facilitando la creación de prendas personalizadas de manera accesible y eficiente.
+### Justificación: 
+Este enfoque permite automatizar el proceso de diseño de moldes, facilitando la creación de prendas personalizadas de manera accesible y eficiente.
 
 ## 3. Herramientas y Tecnologías
 
@@ -41,5 +42,13 @@ Se propone el uso de inteligencia artificial generativa para diseñar moldes de 
 * Nightcafe o Leonardo.Ai: Para la generación de imágenes.
 * GPT-4: Para mejorar la optimización de prompts.
 
-## Justificación:
+### Justificación:
 Estas herramientas permiten obtener imágenes precisas y ajustadas a las necesidades del diseño de moldes de ropa.
+
+## 4. Implementación
+
+Se utilizará la herramienta Nightcafe para generar moldes de prendas. A continuación, se presenta un ejemplo de prompt optimizado:
+
+### Prompt:
+
+"Technical sewing pattern for a women's dress, front and back view, detailed measurements, vector-style blueprint, professional layout, high resolution, top-down perspective."
