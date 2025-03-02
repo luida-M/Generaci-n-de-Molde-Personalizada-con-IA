@@ -3,7 +3,7 @@
 
 ### Contexto
 
-En la industria textil y de moda, la creación de moldes de ropa personalizada es un proceso que consume tiempo y requiere conocimientos técnicos avanzados. Actualmente, muchas personas sin acceso a software especializado o habilidades en patronaje digital encuentran dificultades para generar moldes de manera eficiente.
+En la industria textil, la creación de moldes de ropa personalizada es un proceso que consume tiempo y requiere conocimientos técnicos avanzados. Actualmente, muchas personas sin acceso a software especializado o habilidades en patronaje digital encuentran dificultades para generar moldes de manera eficiente.
 
 ### Problema
 
@@ -32,7 +32,7 @@ Este enfoque permite automatizar el proceso de diseño de moldes, facilitando la
 
 ### Técnicas de Fast Prompting
 
-* Para mejorar la calidad de las imágenes generadas, se utilizarán estrategias como:
+Para mejorar la calidad de las imágenes generadas, se utilizarán estrategias como:
 * Descripciones detalladas: Definir el tipo de prenda, dimensiones, perspectiva y estilo del molde.
 * Uso de términos específicos: Palabras clave como "vectorial", "técnico", "blueprint", "sewing pattern", "flat lay".
 * Iteración: Refinar los prompts para mejorar la precisión de los resultados.
@@ -52,3 +52,7 @@ Se utilizará la herramienta Nightcafe para generar moldes de prendas. A continu
 ### Prompt:
 
 "Technical sewing pattern for a women's dress, front and back view, detailed measurements, vector-style blueprint, professional layout, high resolution, top-down perspective."
+
+[Visita GitHub](https://github.com)
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
