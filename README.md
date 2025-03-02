@@ -54,5 +54,7 @@ Se utilizará la herramienta Nightcafe para generar moldes de prendas. A continu
 "Technical sewing pattern for a women's dress, front and back view, detailed measurements, vector-style blueprint, professional layout, high resolution, top-down perspective."
 
 [Visita GitHub] Url: https://colab.research.google.com/drive/1MNZhzhxaGm3NkY88CZFA-4UEgroVoFYp?usp=sharing
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo de GitHub] Url: https://colab.research.google.com/drive/1MNZhzhxaGm3NkY88CZFA-4UEgroVoFYp?usp=sharing
+
+
 
